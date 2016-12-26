@@ -1,0 +1,15 @@
+{
+  "[Ion Token]": "xwing-miniatures-font xwing-miniatures-font-token-ion-outline",
+  "[Evade Token]": "xwing-miniatures-font xwing-miniatures-font-token-evade-outline",
+  "[Cloak Token]": "xwing-miniatures-font xwing-miniatures-font-token-cloak-outline",
+  "[Tractor Beam Token]": "xwing-miniatures-font xwing-miniatures-font-token-tractorbeam-outline",
+  "[Focus Token]": "xwing-miniatures-font xwing-miniatures-font-token-focus-outline",
+  "[Critical Hit Token]": "xwing-miniatures-font xwing-miniatures-font-token-crit-outline",
+  "[Energy Token]": "xwing-miniatures-font xwing-miniatures-font-token-energy-outline",
+  "[Cannot Attack Token]": "xwing-miniatures-font xwing-miniatures-font-token-cannotattack-outline",
+  "[Stress Token]": "xwing-miniatures-font xwing-miniatures-font-token-stress-outline",
+  "[Extra Munitions Token]": "xwing-miniatures-font xwing-miniatures-font-token-extramunitions-outline",
+  "[Target Lock Token]": "xwing-miniatures-font xwing-miniatures-font-token-targetlock-outline",
+  "[Reinforce Token]": "xwing-miniatures-font xwing-miniatures-font-token-reinforce-outline",
+  "[Shield Token]": "xwing-miniatures-font xwing-miniatures-font-token-shield-outline"
+}
