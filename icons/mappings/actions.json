@@ -1,14 +1,14 @@
 {
-  "[Barrel Roll]": "xwing-miniatures-font xwing-miniatures-font-barrelroll",
-  "[Slam]": "xwing-miniatures-font xwing-miniatures-font-slam",
-  "[Reinforce]": "xwing-miniatures-font xwing-miniatures-font-reinforce",
   "[Focus]": "xwing-miniatures-font xwing-miniatures-font-focus",
-  "[Recover]": "xwing-miniatures-font xwing-miniatures-font-recover",
-  "[Evade]": "xwing-miniatures-font xwing-miniatures-font-evade",
-  "[Boost]": "xwing-miniatures-font xwing-miniatures-font-boost",
-  "[Coordinate]": "xwing-miniatures-font xwing-miniatures-font-coordinate",
   "[Target Lock]": "xwing-miniatures-font xwing-miniatures-font-targetlock",
-  "[Rotate Arc]": "xwing-miniatures-font xwing-miniatures-font-rotatearc",
+  "[Evade]": "xwing-miniatures-font xwing-miniatures-font-evade",
+  "[Barrel Roll]": "xwing-miniatures-font xwing-miniatures-font-barrelroll",
+  "[Boost]": "xwing-miniatures-font xwing-miniatures-font-boost",
   "[Cloak]": "xwing-miniatures-font xwing-miniatures-font-cloak",
+  "[Slam]": "xwing-miniatures-font xwing-miniatures-font-slam",
+  "[Rotate Arc]": "xwing-miniatures-font xwing-miniatures-font-rotatearc",
+  "[Recover]": "xwing-miniatures-font xwing-miniatures-font-recover",
+  "[Reinforce]": "xwing-miniatures-font xwing-miniatures-font-reinforce",
+  "[Coordinate]": "xwing-miniatures-font xwing-miniatures-font-coordinate",
   "[Jam]": "xwing-miniatures-font xwing-miniatures-font-jam"
 }

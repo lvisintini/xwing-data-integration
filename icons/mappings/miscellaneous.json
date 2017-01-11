@@ -1,7 +1,7 @@
 {
-  "[Scum Player]": "xwing-miniatures-font xwing-miniatures-font-helmet-scum",
   "[Rebel Player]": "xwing-miniatures-font xwing-miniatures-font-helmet-rebel",
   "[Empire Player]": "xwing-miniatures-font xwing-miniatures-font-helmet-imperial",
+  "[Scum Player]": "xwing-miniatures-font xwing-miniatures-font-helmet-scum",
   "[Squad Point Cost]": "xwing-miniatures-font xwing-miniatures-font-squad-point-cost",
   "[Epic]": "xwing-miniatures-font xwing-miniatures-font-epic"
 }
