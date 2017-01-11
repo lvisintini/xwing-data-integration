@@ -35,7 +35,7 @@
   "[VCX-100]": "xwing-miniatures-ship xwing-miniatures-ship-vcx100",
   "[TIE Adv. Prototype]": "xwing-miniatures-ship xwing-miniatures-ship-tieadvancedprototype",
   "[G-1A Starfighter]": "xwing-miniatures-ship xwing-miniatures-ship-g1astarfighter",
-  "[JumpMaster 5000]": "xwing-miniatures-ship xwing-miniatures-ship-jumpmaster5000"
+  "[JumpMaster 5000]": "xwing-miniatures-ship xwing-miniatures-ship-jumpmaster5000",
   "[ARC-170]": "xwing-miniatures-ship xwing-miniatures-ship-arc170",
   "[TIE/sf Fighter]": "xwing-miniatures-ship xwing-miniatures-ship-tiesffighter",
   "[Protectorate Starfighter]": "xwing-miniatures-ship xwing-miniatures-ship-protectoratestarfighter",
@@ -43,5 +43,5 @@
   "[U-Wing]": "xwing-miniatures-ship xwing-miniatures-ship-uwing",
   "[TIE Striker]": "xwing-miniatures-ship xwing-miniatures-ship-tiestriker",
   "[Upsilon-class Shuttle]": "xwing-miniatures-ship xwing-miniatures-ship-upsilonclassshuttler",
-  "[Quadjumper]": "xwing-miniatures-ship xwing-miniatures-ship-quadjumper",
+  "[Quadjumper]": "xwing-miniatures-ship xwing-miniatures-ship-quadjumper"
 }

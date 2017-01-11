@@ -4,7 +4,7 @@
   "[Torpedo]": "xwing-miniatures-font xwing-miniatures-font-torpedo",
   "[Missile]": "xwing-miniatures-font xwing-miniatures-font-missile",
   "[Cannon]": "xwing-miniatures-font xwing-miniatures-font-cannon",
-  "[Turret]": "xwing-miniatures-font xwing-miniatures-font-turret"
+  "[Turret]": "xwing-miniatures-font xwing-miniatures-font-turret",
   "[Bomb]": "xwing-miniatures-font xwing-miniatures-font-bomb",
   "[Crew]": "xwing-miniatures-font xwing-miniatures-font-crew",
   "[Salvaged Astromech]": "xwing-miniatures-font xwing-miniatures-font-salvagedastromech",
@@ -15,5 +15,5 @@
   "[Cargo]": "xwing-miniatures-font xwing-miniatures-font-cargo",
   "[Hardpoint]": "xwing-miniatures-font xwing-miniatures-font-hardpoint",
   "[Team]": "xwing-miniatures-font xwing-miniatures-font-team",
-  "[Tech]": "xwing-miniatures-font xwing-miniatures-font-tech",
+  "[Tech]": "xwing-miniatures-font xwing-miniatures-font-tech"
 }

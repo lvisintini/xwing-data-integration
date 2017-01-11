@@ -2,7 +2,7 @@
   "[Focus Token]": "xwing-miniatures-font xwing-miniatures-font-token-focus-outline",
   "[Evade Token]": "xwing-miniatures-font xwing-miniatures-font-token-evade-outline",
   "[Target Lock Token]": "xwing-miniatures-font xwing-miniatures-font-token-targetlock-outline",
-  "[Shield Token]": "xwing-miniatures-font xwing-miniatures-font-token-shield-outline"
+  "[Shield Token]": "xwing-miniatures-font xwing-miniatures-font-token-shield-outline",
   "[Stress Token]": "xwing-miniatures-font xwing-miniatures-font-token-stress-outline",
   "[Critical Hit Token]": "xwing-miniatures-font xwing-miniatures-font-token-crit-outline",
   "[Ion Token]": "xwing-miniatures-font xwing-miniatures-font-token-ion-outline",
@@ -11,5 +11,5 @@
   "[Cannot Attack Token]": "xwing-miniatures-font xwing-miniatures-font-token-cannotattack-outline",
   "[Energy Token]": "xwing-miniatures-font xwing-miniatures-font-token-energy-outline",
   "[Extra Munitions Token]": "xwing-miniatures-font xwing-miniatures-font-token-extramunitions-outline",
-  "[Reinforce Token]": "xwing-miniatures-font xwing-miniatures-font-token-reinforce-outline",
+  "[Reinforce Token]": "xwing-miniatures-font xwing-miniatures-font-token-reinforce-outline"
 }
