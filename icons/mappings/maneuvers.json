@@ -12,5 +12,8 @@
   "[Tallon Roll Right]": "xwing-miniatures-font xwing-miniatures-font-trollright",
   "[Tallon Roll Left]": "xwing-miniatures-font xwing-miniatures-font-trollleft",
   "[IG88D Segnor's Loop Left]": "xwing-miniatures-font xwing-miniatures-font-ig88d-sloopleft",
-  "[IG88D Segnor's Loop Right]": "xwing-miniatures-font xwing-miniatures-font-ig88d-sloopright"
+  "[IG88D Segnor's Loop Right]": "xwing-miniatures-font xwing-miniatures-font-ig88d-sloopright",
+  "[Reverse Straight]": "xwing-miniatures-font xwing-miniatures-font-reversestraight",
+  "[Reverse Bank Left]": "xwing-miniatures-font xwing-miniatures-font-reversebankleft",
+  "[Reverse Bank Right]": "xwing-miniatures-font xwing-miniatures-font-reversebankright",
 }
